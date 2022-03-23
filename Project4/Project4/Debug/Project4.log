@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(700,5): error MSB6006: "CL.exe" exited with code 2.
+C:\Users\Phemeus\source\repos\Project4\Project4\Source.cpp(5,10): fatal error C1083: Cannot open include file: 'glut.h': No such file or directory
